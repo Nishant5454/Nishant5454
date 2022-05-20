@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishant5454
-- 👀 I’m interested in competative programming
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning c++/java/python/sql
 - 💞️ I’m looking to collaborate on people who interested in making real world projects
 - 📫 you can reach me via linkden that is linkdin@nishantkumar
 - .
